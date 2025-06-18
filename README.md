@@ -1,8 +1,8 @@
-## Welcome!
+## Welcome!👋
 
-My name is Sten and am a certified upper secondary engineer ([Gymnasieingejör](https://utbildningsguiden.skolverket.se/gymnasieskolan/gymnasieskolans-program/gymnasieingenjor)). This means that I have qualifications in planning, carrying out and assessing IT projects, ability to communicate technology and technical solutions, among other things. 
+My name is Sten and am a certified upper secondary engineer👷‍♂️ ([Gymnasieingejör](https://utbildningsguiden.skolverket.se/gymnasieskolan/gymnasieskolans-program/gymnasieingenjor)). This means that I have qualifications in planning, carrying out and assessing IT projects💻, ability to communicate technology and technical solutions, among other things. 
 
-This page is ment to present my projects that I am working on, aswell as show how I made them and show my programming skills. 
+This page is ment to present my projects that I am working on, aswell as show how I made them and to show my programming skills. 
 
 <!--
 **stenkaal/stenkaal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
