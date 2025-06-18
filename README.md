@@ -1,4 +1,8 @@
-## Hi there 👋
+## Welcome!
+
+My name is Sten and am a certified upper secondary engineer. This means that I have qualifications in things like plan, carry out and assess an IT project, communicate technology and technical solutions and much more. 
+
+This page is ment to present my projects that I am working on, aswell as show how I made them and show my programming skills. 
 
 <!--
 **stenkaal/stenkaal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
